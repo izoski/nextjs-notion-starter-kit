@@ -9,19 +9,19 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Rasi Media',
-  domain: 'rasi.media',
-  author: 'Rasi Media',
+  name: 'Mochammad "izo" Aziz',
+  domain: 'mochammadaziz.izoabe.com',
+  author: 'Mochammad Aziz',
 
   // open graph metadata (optional)
-  description: 'Rasi Media was founded in late December 2022, our mission is to provide actual and entertaining information.',
+  description: 'OMG! its izo!',
 
   // social usernames (optional)
-  twitter: 'rasimedia',
-  instagram: 'rasimedia',
-  facebook: 'hairasi',
+  twitter: 'sk_izo',
+  instagram: 'izoabe',
+  facebook: 'izo.gg',
   // newsletter: '#', // optional newsletter URL
-  youtube: '@rasimedia', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: '@izoabe', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
