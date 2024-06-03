@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Mochammad "izo" Aziz',
-  domain: 'mochammadaziz.izoabe.com',
+  domain: 'writes.ma.izoabe.com',
   author: 'Mochammad Aziz',
 
   // open graph metadata (optional)
@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'sk_izo',
-  instagram: 'izoabe',
-  facebook: 'izo.gg',
+  instagram: 'ma_._._._._._._',
+  facebook: 'writes.ma',
   // newsletter: '#', // optional newsletter URL
   youtube: '@izoabe', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
