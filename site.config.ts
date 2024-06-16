@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Mochammad "izo" Aziz',
-  domain: 'writes.ma.izoabe.com',
+  domain: 'ma.izoabe.com',
   author: 'Mochammad Aziz',
 
   // open graph metadata (optional)
@@ -18,10 +18,10 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'sk_izo',
-  instagram: 'ma_._._._._._._',
-  facebook: 'writes.ma',
+  instagram: 'izo.jpg',
+  facebook: 'izo.gg',
   // newsletter: '#', // optional newsletter URL
-  youtube: '@izoabe', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: '@sk_izo', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
