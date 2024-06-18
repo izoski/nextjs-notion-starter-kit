@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'sk_izo',
-  instagram: 'izo.jpg',
+  instagram: 'izoabe',
   facebook: 'izo.gg',
   // newsletter: '#', // optional newsletter URL
   youtube: '@sk_izo', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
