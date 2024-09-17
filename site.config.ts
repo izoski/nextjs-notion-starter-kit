@@ -9,19 +9,19 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Mochammad "izo" Aziz',
-  domain: 'ma.izoabe.com',
+  name: 'Izo Abe&#39;s Library',
+  domain: 'lib.izoabe.com',
   author: 'Mochammad Aziz',
 
   // open graph metadata (optional)
-  description: 'OMG! its izo!',
+  description: 'Welcome to Izo Abe&#39; Library',
 
   // social usernames (optional)
-  twitter: 'sk_izo',
+  twitter: 'izo_abe',
   instagram: 'izoabe',
   facebook: 'izo.gg',
   // newsletter: '#', // optional newsletter URL
-  youtube: '@sk_izo', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: '@izoabe', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
