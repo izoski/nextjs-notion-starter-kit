@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Izo Abe&#39;s Library',
+  name: 'Izo Abe Library',
   domain: 'lib.izoabe.com',
   author: 'Mochammad Aziz',
 
   // open graph metadata (optional)
-  description: 'Welcome to Izo Abe&#39; Library',
+  description: 'Welcome to Izo Abe Library',
 
   // social usernames (optional)
   twitter: 'izo_abe',
