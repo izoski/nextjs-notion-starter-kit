@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Mochammad Aziz',
-  domain: 'mochammadaziz.com',
+  name: 'Mochammad Aziz Library',
+  domain: 'malib.org',
   author: 'Mochammad Aziz',
 
   // open graph metadata (optional)
@@ -41,11 +41,11 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   //
-  // pageUrlOverrides: {
-  //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
-  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-  // }
-  pageUrlOverrides: null,
+  pageUrlOverrides: {
+     '/foo': '067dd719a912471ea9a3ac10710e7fdf',
+     '/bar': '0be6efce9daf42688f65c76b89f8eb27'
+   },
+  // pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
