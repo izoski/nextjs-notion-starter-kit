@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Mochammad Aziz Library',
-  domain: 'malib.org',
+  name: 'Aziz Mochammad Library',
+  domain: 'azizmochammad.com',
   author: 'Mochammad Aziz',
 
   // open graph metadata (optional)
   description: 'Mochammad "izo" Aziz',
 
   // social usernames (optional)
-  twitter: 'malib_org',
-  instagram: 'malib_org',
-  facebook: 'mochammadazizlibrary',
+  twitter: 'azizmocha',
+  instagram: 'azizmochammad',
+  facebook: 'azizmochammadlibrary',
   // newsletter: '#', // optional newsletter URL
   youtube: '@izo.mp4', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
