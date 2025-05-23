@@ -11,15 +11,15 @@ export default siteConfig({
   // basic site info (required)
   name: 'Aziz Mochammad Library',
   domain: 'azizmochammad.com',
-  author: 'Mochammad Aziz',
+  author: 'Aziz Mochammad',
 
   // open graph metadata (optional)
-  description: 'Mochammad "izo" Aziz',
+  description: 'Aziz "izo" Mochammad',
 
   // social usernames (optional)
   twitter: 'azizmocha',
-  instagram: 'azizmochammad',
-  facebook: 'azizmochammadlibrary',
+  instagram: 'izo.jpg',
+  facebook: 'aazizmochammad',
   // newsletter: '#', // optional newsletter URL
   youtube: '@izo.mp4', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
